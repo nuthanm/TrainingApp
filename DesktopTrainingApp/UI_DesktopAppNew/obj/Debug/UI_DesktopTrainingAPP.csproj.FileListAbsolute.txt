@@ -1,0 +1,6 @@
+D:\Projects\DesktopApp\DesktopTrainingApp\UI_DesktopTrainingAPP\bin\Debug\UI_DesktopTrainingAPP.dll
+D:\Projects\DesktopApp\DesktopTrainingApp\UI_DesktopTrainingAPP\bin\Debug\UI_DesktopTrainingAPP.pdb
+D:\Projects\DesktopApp\DesktopTrainingApp\UI_DesktopTrainingAPP\obj\Debug\UI_DesktopTrainingAPP.dll
+D:\Projects\DesktopApp\DesktopTrainingApp\UI_DesktopTrainingAPP\obj\Debug\UI_DesktopTrainingAPP.pdb
+D:\Projects\DesktopApp\DesktopTrainingApp\UI_DesktopTrainingAPP\obj\Debug\UI_DesktopTrainingAPP.Security.Login.resources
+D:\Projects\DesktopApp\DesktopTrainingApp\UI_DesktopTrainingAPP\obj\Debug\UI_DesktopTrainingAPP.csproj.GenerateResource.Cache

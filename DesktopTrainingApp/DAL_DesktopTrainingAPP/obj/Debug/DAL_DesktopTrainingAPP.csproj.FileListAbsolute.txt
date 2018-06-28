@@ -1,0 +1,5 @@
+D:\Projects\DesktopApp\DesktopTrainingApp\DAL_DesktopTrainingAPP\bin\Debug\DAL_DesktopTrainingAPP.dll
+D:\Projects\DesktopApp\DesktopTrainingApp\DAL_DesktopTrainingAPP\bin\Debug\DAL_DesktopTrainingAPP.pdb
+D:\Projects\DesktopApp\DesktopTrainingApp\DAL_DesktopTrainingAPP\obj\Debug\DAL_DesktopTrainingAPP.dll
+D:\Projects\DesktopApp\DesktopTrainingApp\DAL_DesktopTrainingAPP\obj\Debug\DAL_DesktopTrainingAPP.pdb
+D:\Projects\DesktopApp\DesktopTrainingApp\DAL_DesktopTrainingAPP\obj\Debug\DAL_DesktopTrainingAPP.csprojResolveAssemblyReference.cache

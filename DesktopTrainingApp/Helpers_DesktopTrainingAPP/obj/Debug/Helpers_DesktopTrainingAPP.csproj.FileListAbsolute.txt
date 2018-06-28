@@ -1,0 +1,11 @@
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\bin\Debug\Helpers_DesktopTrainingAPP.dll
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\bin\Debug\Helpers_DesktopTrainingAPP.pdb
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\bin\Debug\BAL_DesktopTrainingAPP.dll
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\bin\Debug\DAL_DesktopTrainingAPP.dll
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\bin\Debug\BAL_DesktopTrainingAPP.pdb
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\bin\Debug\DAL_DesktopTrainingAPP.pdb
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\obj\Debug\Helpers_DesktopTrainingAPP.csprojResolveAssemblyReference.cache
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\obj\Debug\Helpers_DesktopTrainingAPP.dll
+D:\Projects\DesktopApp\DesktopTrainingApp\Helpers_DesktopTrainingAPP\obj\Debug\Helpers_DesktopTrainingAPP.pdb
